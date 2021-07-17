@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @annaaax
+- 👀 I’m interested in programming and building robots
+- 🌱 I’m currently learning JavaSript and HTML
+- 📫 You can reach me through my discord: annaax#1901
